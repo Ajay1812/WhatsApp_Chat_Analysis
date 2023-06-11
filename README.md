@@ -11,7 +11,7 @@ A WhatsApp chat analyzer is a tool that allows you to analyze the messages in a 
 ![screenshot-localhost_8501-2022 12 20-10_23_18](https://user-images.githubusercontent.com/81603467/208942954-3b9cbab5-8d7b-4e87-93cc-c549793c8ceb.png)
 ![screenshot-localhost_8501-2022 12 20-10_24_08](https://user-images.githubusercontent.com/81603467/208942965-cf2ea208-3d31-4e0a-b649-436d7c4ada08.png)
 
-To view the demo: [**Click here**](https://whatsapp-analysis.streamlit.app/)
+
 
 ## Run Locally
 
